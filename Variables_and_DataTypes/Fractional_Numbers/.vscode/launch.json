@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/knight/Documents/Projects/CPP_Programming_self_taught/Variables_and_DataTypes/Fractional_Numbers",
-      "program": "/home/knight/Documents/Projects/CPP_Programming_self_taught/Variables_and_DataTypes/Fractional_Numbers/build/Debug/outDebug",
+      "cwd": "/home/knight/Documents/Projects/CPP_Programming_self_taught/Number_systems",
+      "program": "/home/knight/Documents/Projects/CPP_Programming_self_taught/Number_systems/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
