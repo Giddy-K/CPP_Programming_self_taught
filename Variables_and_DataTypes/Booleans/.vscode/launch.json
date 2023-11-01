@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/knight/Documents/Projects/CPP_Programming_self_taught/Variables_and_DataTypes/Booleans",
-      "program": "/home/knight/Documents/Projects/CPP_Programming_self_taught/Variables_and_DataTypes/Booleans/build/Debug/outDebug",
+      "cwd": "/home/knight/Documents/Projects/CPP_Programming_self_taught/C++_Programming",
+      "program": "/home/knight/Documents/Projects/CPP_Programming_self_taught/C++_Programming/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
